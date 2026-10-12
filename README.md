@@ -1,6 +1,6 @@
-# Stamps Developer Mini Test
+# Developer Mini Test
 
-This repository contains my solution for the **Stamps Developer Recruitment Mini Test**.
+This repository contains my solution for the **Developer Recruitment Mini Test**.
 
 The project consists of two programming tasks:
 
@@ -21,7 +21,7 @@ The project consists of two programming tasks:
 ## Project Structure
 
 ```text
-stamps-mini-test/
+mini-test/
 │
 ├── small_program.py
 ├── weather_forecast.py
@@ -48,7 +48,7 @@ Before running the project, make sure you have:
 
 ```bash
 git clone <your-github-repository-url>
-cd stamps-mini-test
+cd mini-test
 ```
 
 ### 2. Create a Virtual Environment
